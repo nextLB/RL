@@ -1,5 +1,8 @@
 # 易用的强化学习
 
+当前运行环境的配置可见requirements.txt文档
+
+
 ## unitree_go1
 
     源自于git@github.com:google-deepmind/mujoco_menagerie.git
