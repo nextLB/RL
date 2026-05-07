@@ -15,3 +15,14 @@
 ## Test_Version_1_0
 
     测试版本V1_0: 创建于2026_05_05
+
+
+
+
+
+
+
+
+## 整个项目构建过程中常用的一些命令
+
+    导出环境为一个requirements.txt: pip freeze > requirements.txt
